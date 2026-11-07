@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+    
+}
+h1,h2{
+    background-color: hotpink;
+    border-left: 10px solid blueviolet;
+}
+img{
+    display: block;
+    margin: 10px auto;
+}
